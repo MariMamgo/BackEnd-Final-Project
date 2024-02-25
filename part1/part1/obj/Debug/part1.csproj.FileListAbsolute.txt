@@ -1,0 +1,7 @@
+C:\Users\KiuAdmin\source\repos\part1\part1\bin\Debug\part1.exe.config
+C:\Users\KiuAdmin\source\repos\part1\part1\bin\Debug\part1.exe
+C:\Users\KiuAdmin\source\repos\part1\part1\bin\Debug\part1.pdb
+C:\Users\KiuAdmin\source\repos\part1\part1\obj\Debug\part1.csproj.AssemblyReference.cache
+C:\Users\KiuAdmin\source\repos\part1\part1\obj\Debug\part1.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\source\repos\part1\part1\obj\Debug\part1.exe
+C:\Users\KiuAdmin\source\repos\part1\part1\obj\Debug\part1.pdb

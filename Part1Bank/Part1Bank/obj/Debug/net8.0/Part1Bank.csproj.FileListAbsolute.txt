@@ -1,0 +1,14 @@
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\bin\Debug\net8.0\Part1Bank.exe
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\bin\Debug\net8.0\Part1Bank.deps.json
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\bin\Debug\net8.0\Part1Bank.runtimeconfig.json
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\bin\Debug\net8.0\Part1Bank.dll
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\bin\Debug\net8.0\Part1Bank.pdb
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.AssemblyInfoInputs.cache
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.AssemblyInfo.cs
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.dll
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\refint\Part1Bank.dll
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.pdb
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\Part1Bank.genruntimeconfig.cache
+C:\Users\KiuAdmin\source\repos\Part1Bank\Part1Bank\obj\Debug\net8.0\ref\Part1Bank.dll
