@@ -1,0 +1,14 @@
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\bin\Debug\net8.0\Part1Translator.exe
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\bin\Debug\net8.0\Part1Translator.deps.json
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\bin\Debug\net8.0\Part1Translator.runtimeconfig.json
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\bin\Debug\net8.0\Part1Translator.dll
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\bin\Debug\net8.0\Part1Translator.pdb
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.AssemblyInfoInputs.cache
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.AssemblyInfo.cs
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.dll
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\refint\Part1Translator.dll
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.pdb
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\Part1Translator.genruntimeconfig.cache
+C:\Users\KiuAdmin\source\repos\Part1Translator\Part1Translator\obj\Debug\net8.0\ref\Part1Translator.dll
