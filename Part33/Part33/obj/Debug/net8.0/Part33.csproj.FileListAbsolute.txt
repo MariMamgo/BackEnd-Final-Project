@@ -1,0 +1,14 @@
+C:\Users\KiuAdmin\source\repos\Part33\Part33\bin\Debug\net8.0\Part33.exe
+C:\Users\KiuAdmin\source\repos\Part33\Part33\bin\Debug\net8.0\Part33.deps.json
+C:\Users\KiuAdmin\source\repos\Part33\Part33\bin\Debug\net8.0\Part33.runtimeconfig.json
+C:\Users\KiuAdmin\source\repos\Part33\Part33\bin\Debug\net8.0\Part33.dll
+C:\Users\KiuAdmin\source\repos\Part33\Part33\bin\Debug\net8.0\Part33.pdb
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.AssemblyInfoInputs.cache
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.AssemblyInfo.cs
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.dll
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\refint\Part33.dll
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.pdb
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\Part33.genruntimeconfig.cache
+C:\Users\KiuAdmin\source\repos\Part33\Part33\obj\Debug\net8.0\ref\Part33.dll
