@@ -1,0 +1,14 @@
+C:\Users\KiuAdmin\source\repos\Part2\Part2\bin\Debug\net8.0\Part2.exe
+C:\Users\KiuAdmin\source\repos\Part2\Part2\bin\Debug\net8.0\Part2.deps.json
+C:\Users\KiuAdmin\source\repos\Part2\Part2\bin\Debug\net8.0\Part2.runtimeconfig.json
+C:\Users\KiuAdmin\source\repos\Part2\Part2\bin\Debug\net8.0\Part2.dll
+C:\Users\KiuAdmin\source\repos\Part2\Part2\bin\Debug\net8.0\Part2.pdb
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.dll
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\refint\Part2.dll
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.pdb
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+C:\Users\KiuAdmin\source\repos\Part2\Part2\obj\Debug\net8.0\ref\Part2.dll
