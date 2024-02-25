@@ -1,7 +1,0 @@
-C:\Users\KiuAdmin\source\repos\Games\Games\bin\Debug\Games.exe.config
-C:\Users\KiuAdmin\source\repos\Games\Games\bin\Debug\Games.exe
-C:\Users\KiuAdmin\source\repos\Games\Games\bin\Debug\Games.pdb
-C:\Users\KiuAdmin\source\repos\Games\Games\obj\Debug\Games.csproj.AssemblyReference.cache
-C:\Users\KiuAdmin\source\repos\Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
-C:\Users\KiuAdmin\source\repos\Games\Games\obj\Debug\Games.exe
-C:\Users\KiuAdmin\source\repos\Games\Games\obj\Debug\Games.pdb
